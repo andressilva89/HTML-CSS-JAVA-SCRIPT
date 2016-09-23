@@ -1,0 +1,57 @@
+#Principal{
+	width: auto;	
+	margin:	auto;
+	color: black;
+	padding: 30px;
+}
+
+table#tabelaspec th, td {
+	border: 1px	solid white;
+	padding: 10px;
+	text-align: center;
+	vertical-align: middle;
+
+}
+
+table#tabelaspec {
+border-spacing: 0px;
+margin-left: auto;
+margin-right: auto;
+}
+
+section	h3 {
+	text-align: justify;
+}
+
+.margin-30 {
+	margin: 30px !important;
+}
+.floatLeft {
+	float: left;
+}
+
+.Link{
+	float: right;
+}
+
+.H1{
+	float: left;
+}
+
+.clear {
+	clear:both;
+}
+.floatLeft h2{
+padding-left: 10px;
+padding-top: 20px;
+}
+
+.Link, #Links  {
+	padding-top: 0px;
+}
+
+html, body {
+margin:0;
+padding:0;
+}
+
